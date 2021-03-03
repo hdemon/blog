@@ -1,0 +1,5 @@
+{
+  // emotion用のpragmaをファイルごとに書かなくてよくするための設定
+  // https://qiita.com/282Haniwa/items/243f00c39ee7c992d7f7
+  "presets": ["next/babel", "@emotion/babel-preset-css-prop"]
+}
